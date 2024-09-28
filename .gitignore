@@ -5,5 +5,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.session
-.session-journal
+*.session
+*.session-journal
